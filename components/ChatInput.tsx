@@ -1,4 +1,4 @@
-import React, { useState, useRef, useEffect } from 'react';
+import React, { useState, useRef } from 'react';
 import { Send, Sparkles } from 'lucide-react';
 
 interface ChatInputProps {
