@@ -89,7 +89,7 @@ const ChatInterface: React.FC = () => {
         </div>
         <button 
           className="p-2 text-gray-400 hover:text-teal-600 transition-colors rounded-full hover:bg-gray-50"
-          onClick={() => window.open('https://ai.google.dev/gemini-api/docs', '_blank')}
+          onClick={() => window.open('https://www.bankfab.com/en-ae/personal/mortgages/mortgage-calculator', '_blank')}
         >
           <Info size={20} />
         </button>
