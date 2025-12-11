@@ -71,7 +71,7 @@ const ChatInput: React.FC<ChatInputProps> = ({ onSendMessage, isLoading }) => {
         </button>
       </div>
       <div className="text-center mt-2">
-         <p className="text-[10px] text-gray-400">COINED ONE can make mistakes. Please verify important financial information.</p>
+         <p className="text-[10px] text-gray-400"></p>
       </div>
     </div>
   );
